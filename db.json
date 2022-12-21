@@ -1,0 +1,18 @@
+{
+  "dragons": [
+      {
+          "id": 0,
+          "name": "Ash/Common/0",
+          "type": "Ash",
+          "rarity": "Common",
+          "dragon image": "https://github.com/nftlockandkey/dragonAPI/blob/main/Dragons/Dragon_001.png?raw=true"
+      },
+      {
+          "id": 1,
+          "name": "Magma/Rare/1",
+          "type": "Magma",
+          "rarity": "Rare",
+          "dragon image": "https://github.com/nftlockandkey/dragonAPI/blob/main/Dragons/Dragon_002.png?raw=true"
+      }
+  ]
+}
